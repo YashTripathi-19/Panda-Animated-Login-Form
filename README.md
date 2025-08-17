@@ -1,6 +1,9 @@
 # Panda-Animated-Login-Form
 A fun Panda-themed login form built with HTML, CSS, and JavaScript. The panda’s eyes and hands move dynamically as you interact with the form — adding charm to a usually boring login screen.
 
+---
+Play it live on : [panda-animated-login-form-yash-tripathis-projects-4e989943.vercel.app](https://panda-animated-login-form.vercel.app)
+
 ## 🌟 Features
 - 🐼 Panda face animation that reacts to input  
 - 👀 Eyes follow username input & hide during password entry  
